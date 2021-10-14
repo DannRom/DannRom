@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Frontend E-Commerce Website](https://github.com/DannRom/ecommerce-frontend)
 
-- 🌱 I’m currently learning **Angular, Spring, and AWS.**
-
 - 🔭 I’m currently working on [Backend REST API for E-Commerce Website](https://github.com/DannRom/ecommerce-backend)
+
+- 🌱 I’m currently learning **Angular, Spring, and AWS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DannRom](https://github.com/DannRom)
 
