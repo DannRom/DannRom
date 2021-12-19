@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny Romero</h1>
-<h3 align="center">I am a Computer Science graduate student at UT Permian Basin.</h3>
+<h3 align="center">I am a recent Computer Science graduate from UT Permian Basin.</h3>
 
 - 🔭 I’m currently working on [Frontend E-Commerce Website](https://github.com/DannRom/ecommerce-frontend)
 
