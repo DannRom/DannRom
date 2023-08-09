@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny Romero</h1>
-<h3 align="center">I am a full stack software engineer at FactSet Research Systems.</h3>
+<h3 align="center">I am a full-stack software engineer at FactSet Research Systems.</h3>
 
 - 🔭 I’m currently working on [Frontend E-Commerce Website](https://github.com/DannRom/ecommerce-frontend)
 
