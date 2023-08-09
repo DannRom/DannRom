@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Danny Romero</h1>
 <h3 align="center">I am a full-stack software engineer at FactSet Research Systems.</h3>
 
-- 🔭 I’m currently working on [Frontend E-Commerce Website](https://github.com/DannRom/ecommerce-frontend)
+[//]: # (This is a comment)
+[//]: # (- 🔭 I’m currently working on)
 
-- 🔭 I’m currently working on [Backend REST API for E-Commerce Website](https://github.com/DannRom/ecommerce-backend)
+- 🔭 My most recent projects: [Frontend E-Commerce Website](https://github.com/DannRom/ecommerce-frontend)
 
-- 🌱 I’m currently learning **Angular, Spring, and AWS.**
+- 🔭 My most recent projects: [Backend REST API for E-Commerce Website](https://github.com/DannRom/ecommerce-backend)
+
+- 🌱 I’m currently improving my knowledge on **Nest.js and AWS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DannRom](https://github.com/DannRom)
 
